@@ -1,0 +1,4 @@
+Memory management - The operating system uses memory management in order to keep track of all the different programs requesting memory from your system. It tracks when memory is free,
+                    when it is allocated, and which locations are assigned. The memory management function is responsible for viewing the different competing processes running on your computer and deciding
+                    deciding which programs receive memory, how much memory each program receives, and when they recieve it. If this function was not available, multiple programs would try to grab
+                    locations of memory at the same time causing the system to not function properly.
