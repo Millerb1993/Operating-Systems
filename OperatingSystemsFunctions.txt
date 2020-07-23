@@ -1,4 +1,9 @@
 Memory management - The operating system uses memory management in order to keep track of all the different programs requesting memory from your system. It tracks when memory is free,
-                    when it is allocated, and which locations are assigned. The memory management function is responsible for viewing the different competing processes running on your computer and deciding
+                    when it is allocated, and which memory locations are assigned. The memory management function is responsible for viewing the different competing processes running on your computer and deciding
                     deciding which programs receive memory, how much memory each program receives, and when they recieve it. If this function was not available, multiple programs would try to grab
                     locations of memory at the same time causing the system to not function properly.
+
+Disk management -   Disk management is used by the operating system to control all the various drives connected to your PC. It is responsible for many functions including formatting and partioning drives,
+                    assigning letters to drives, and changing file systems. Both MAC and Windows both have a disk management tool with a GUI that enables the user to make changes to drives, and view drive informantion
+                    such as total capacity, free space, file system, and drive type.
+  
